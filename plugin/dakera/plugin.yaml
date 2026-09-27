@@ -1,0 +1,5 @@
+name: dakera
+version: 0.1.0
+description: "Dakera self-hosted long-term memory: hybrid recall (vector+BM25), per-turn retain, and dakera_* memory tools."
+pip_dependencies:
+  - dakera>=0.12.11,<0.13
